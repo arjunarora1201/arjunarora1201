@@ -12,7 +12,7 @@
 ![](https://streak-stats.demolab.com/?user=arjunarora1201&theme=aura&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=arjunarora1201&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+## ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
